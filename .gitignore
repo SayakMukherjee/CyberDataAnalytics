@@ -129,5 +129,3 @@ dmypy.json
 .pyre/
 
 # Custom files
-Assignment_1/data
-Assignment_1/data/*
